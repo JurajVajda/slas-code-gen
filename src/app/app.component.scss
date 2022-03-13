@@ -1,0 +1,22 @@
+.main-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 50px auto 0;
+  width: 50vw;
+}
+
+.codeverifier-form-field,
+.codechallenge-form-field {
+  width: 100%;
+}
+
+.mat-card .mat-divider-horizontal.divider {
+  position: relative;
+  margin: 50px auto;
+}
+
+button {
+  margin-top: 50px;
+}
